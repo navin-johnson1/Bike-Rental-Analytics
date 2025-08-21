@@ -1,1 +1,3 @@
 # Bike-Rental-Analytics-Platform
+
+This project builds an end-to-end analytics solution for BikeEase, a New York-based bike rental company, to optimize operations, forecast demand, and enhance user experience. Using the provided rental dataset, the solution covers data import, cleaning, processing, statistical analysis, and visualization. Key objectives include identifying rental patterns, analyzing the impact of weather and seasons, and providing actionable business insights through interactive dashboards. The analysis supports strategic decision-making in areas like bike distribution, maintenance planning, and marketing optimization. Visualizations such as heatmaps, line charts, bar plots, and box plots help uncover trends, correlations, and outliers in the data
